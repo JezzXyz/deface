@@ -1,6 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
+document.head.innerHTML = `
   <meta charset="UTF-8">
   <title>sasuga lord j</title>
   <meta name="description" content="whopz!">
@@ -30,8 +28,9 @@
       display: none;
     }
   </style>
-</head>
-<body>
+`;
+
+document.body.innerHTML = `
   <div class="centered">
     <div class="glitch-wrapper">
       <div class="glitch" data-text="leave me,i want alone">
@@ -40,5 +39,4 @@
     </div>
     <iframe src="about:blank" frameborder="0" width="1" height="1"></iframe>
   </div>
-</body>
-</html>
+`;
